@@ -1,5 +1,5 @@
 # llamaClient
-React client for chatting with ollama models. Chatting after project build doesn't require internet conneciton, as everything is run locally.
+A simple React client for chatting with ollama models. Chatting after project build doesn't require internet conneciton, as everything is run locally.
 
 Currently there is only support for llama3
 
